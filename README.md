@@ -211,6 +211,6 @@ Candidate-related fields such as `candidate_id` are used across several tables, 
 
 ## 👩‍💻 Author
 
-**Thennarasu**
+**Thennarasu R**
 
 SQL / Data Analytics Project
